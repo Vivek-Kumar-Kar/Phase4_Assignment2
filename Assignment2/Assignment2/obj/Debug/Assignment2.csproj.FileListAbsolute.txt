@@ -1,0 +1,9 @@
+F:\Phase4\Assignments\Assignment2(12-09-23)\Soln\Assignment2\Assignment2\bin\Debug\Assignment2.dll
+F:\Phase4\Assignments\Assignment2(12-09-23)\Soln\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+F:\Phase4\Assignments\Assignment2(12-09-23)\Soln\Assignment2\Assignment2\bin\Debug\nunit.framework.dll
+F:\Phase4\Assignments\Assignment2(12-09-23)\Soln\Assignment2\Assignment2\bin\Debug\nunit.framework.xml
+F:\Phase4\Assignments\Assignment2(12-09-23)\Soln\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+F:\Phase4\Assignments\Assignment2(12-09-23)\Soln\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+F:\Phase4\Assignments\Assignment2(12-09-23)\Soln\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CopyComplete
+F:\Phase4\Assignments\Assignment2(12-09-23)\Soln\Assignment2\Assignment2\obj\Debug\Assignment2.dll
+F:\Phase4\Assignments\Assignment2(12-09-23)\Soln\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
